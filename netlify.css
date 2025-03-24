@@ -23,6 +23,15 @@ body {
     
 }
 
+.link {
+   text-decoration: none;
+   color: white;
+}
+
+.link:hover {
+    color: black;
+}
+
 button {
     background: black;
     border: 1px solid white;
@@ -44,7 +53,7 @@ flex-direction: column;
 
 button:hover{
     color: black;
-    background: white;
+    background: gray;
 }
 
 .login {
