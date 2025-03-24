@@ -38,7 +38,7 @@ button {
 .container-all {
 display: flex;
 justify-content: center;
-justify-items: center;
+align-items: center;
 flex-direction: column;
 }
 
